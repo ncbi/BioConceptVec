@@ -38,9 +38,9 @@ You can find [this tutorial](https://github.com/ncbi-nlp/BioConceptVec/blob/mast
 <a name="dataset"></a>
 We also make all the 9 evaluation datasets publicly available. It covers 4 applications:
 
-1. [**Drug-Gene interactions**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/drug_gene_interactions). A tsv file contains (1) ID: the instance ID, (2) num_of_genes: the number of genes for this instance, (3) pos_rel_genes: the IDs of related genes, and (4) neg_rel_genes: the IDs of unrelated genes.
+1. [**Drug-Gene interactions**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/drug_gene_interactions). The dataset contains (1) ID: the instance ID, (2) num_of_genes: the number of genes for this instance, (3) pos_rel_genes: the IDs of related genes, and (4) neg_rel_genes: the IDs of unrelated genes.
 
-2. [**Gene-Gene interactions**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/gene_gene_interactions). 5 datasets on gene-gene interactions that have same format as above.
+2. [**Gene-Gene interactions**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/gene_gene_interactions). 5 datasets on gene-gene interactions have the same format as above.
 
 3. [**Protein-Protein interaction**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/protein_protein_interactions). It contains two datasets: (1) combined: protein-protein interactions created based on STRING combined scores and (2) exp700: protein-protein interactions created based on STRING experimental scores over 700. Both datasets contain train, valid and test files. The file contains (1) query: query protein ID, (2) subject: subject protein ID, (3) score: STRING score and (4) label: whether it is a protein-protein interaction.
 
