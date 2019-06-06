@@ -23,10 +23,10 @@ We employed [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/) to annot
 <a name="bioconceptvec"></a>
 We release four versions of BioConceptVec (cbow, skip-gram, glove and fastText). For each version, we make both the embedding (contains concepts and other words) in binary format and the concept-only file in json format available.
 
-1. BioConceptVec cbow [embedding](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_cbow.bin) and [concept-only](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_cbow.bin).
-2. BioConceptVec skip-gram [embedding](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_skipgram.bin) and [concept-only](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_skip.json).
-3. BioConceptVec glove [embedding](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_glove.bin) and [concept-only](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_glove.json).
-4. BioConceptVec fastText [embedding] (ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_fasttext.bin) and [concept-only](ftp://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_fast.json).
+1. BioConceptVec cbow [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_cbow.bin) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_cbow.bin).
+2. BioConceptVec skip-gram [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_skipgram.bin) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_skip.json).
+3. BioConceptVec glove [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_glove.bin) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_glove.json).
+4. BioConceptVec fastText [embedding] (https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_fasttext.bin) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_fast.json).
 
 
 ## Tutorial
