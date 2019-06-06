@@ -26,7 +26,7 @@ We release four versions of BioConceptVec (cbow, skip-gram, glove and fastText).
 1. **BioConceptVec cbow:** [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_cbow.bin) (2.4GB) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_cbow.json) (798MB).
 2. **BioConceptVec skip-gram:** [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_word2vec_skipgram.bin) (2.4GB) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_skip.json) (812MB).
 3. **BioConceptVec glove:** [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_glove.bin) (2.4GB) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_glove.json) (835MB).
-4. **BioConceptVec fastText:** [embedding] (https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_fasttext.bin) (2.4GB) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_fast.json) (813MB).
+4. **BioConceptVec fastText:** [embedding](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/bioconceptvec_fasttext.bin) (2.4GB) and [concept-only](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioConceptVec/concept_fast.json) (813MB).
 
 
 ## Tutorial
