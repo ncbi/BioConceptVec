@@ -31,7 +31,7 @@ We release four versions of BioConceptVec (cbow, skip-gram, glove and fastText).
 
 ## Tutorial
 <a name="pubtator"></a>
-You can find [this tutorial](https://github.com/ncbi-nlp/BioSentVec/blob/master/BioSentVec_tutorial.ipynb) on how to use BioConceptVec (for both embedding and concept-only files) for a quick start.
+You can find [this tutorial](https://github.com/ncbi-nlp/BioConceptVec/blob/master/bioconcept_tutorial.ipynb) on how to use BioConceptVec (for both embedding and concept-only files) for a quick start.
 
 
 ## Acknowledgments
