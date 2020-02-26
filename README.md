@@ -1,5 +1,6 @@
 # BioConceptVec: <br><small>creating and evaluating literature-based biomedical concept embeddings on a large scale</small>
 
+[![HitCount](http://hits.dwyl.com/ncbi-nlp/BioConceptVec.svg)](http://hits.dwyl.com/ncbi-nlp/BioConceptVec)
 
 ## Table of contents
 
