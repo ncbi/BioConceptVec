@@ -50,7 +50,7 @@ We also make all the 9 evaluation datasets publicly available. It covers 4 appli
 ## References
 When using our resources, please cite the following papers:
 
-Chen, Q., Lee, K., Yan, S., Kim, S., Wei, C. H., & Lu, Z. (2019). BioConceptVec: creating and evaluating literature-based biomedical concept embeddings on a large scale. To appear in PLOS Computational Biology.
+Chen, Q., Lee, K., Yan, S., Kim, S., Wei, C. H., & Lu, Z. (2019). [BioConceptVec: creating and evaluating literature-based biomedical concept embeddings on a large scale](https://arxiv.org/ftp/arxiv/papers/1912/1912.10846.pdf). To appear in PLOS Computational Biology.
 
 ## Acknowledgments
 <a name="acknowledgments"></a>
