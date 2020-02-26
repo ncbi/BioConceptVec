@@ -8,6 +8,7 @@
 * [BioConceptVec: embeddings and concept files](#bioconceptvec)
 * [Tutorial](#tutorial)
 * [Datasets](#dataset)
+* [References](#references)
 * [Acknowledgments](#acknowledgments)
 
 
@@ -45,6 +46,11 @@ We also make all the 9 evaluation datasets publicly available. It covers 4 appli
 3. [**Protein-Protein interaction**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/protein_protein_interactions). It contains two datasets: (1) combined: protein-protein interactions created based on STRING combined scores and (2) exp700: protein-protein interactions created based on STRING experimental scores over 700. Both datasets contain train, valid and test files. The file contains (1) query: query protein ID, (2) subject: subject protein ID, (3) score: STRING score and (4) label: whether it is a protein-protein interaction.
 
 4. [**Drug-Drug interaction**](https://github.com/ncbi-nlp/BioConceptVec/tree/master/datasets/drug_drug_interactions). This dataset is from [Drug-Drug interaction semeval-2013](https://www.cs.york.ac.uk/semeval-2013/task9/). Please see the details there.
+
+## References
+When using our resources, please cite the following papers:
+
+Chen, Q., Lee, K., Yan, S., Kim, S., Wei, C. H., & Lu, Z. (2019). BioConceptVec: creating and evaluating literature-based biomedical concept embeddings on a large scale. To appear in PLOS Computational Biology.
 
 ## Acknowledgments
 <a name="acknowledgments"></a>
